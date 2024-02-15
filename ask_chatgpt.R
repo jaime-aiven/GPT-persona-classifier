@@ -1,7 +1,7 @@
 # Function to  call the GPT API from R
 # Credit https://www.r-bloggers.com/2023/03/call-chatgpt-or-really-any-other-api-from-r/
 
-api_key <- "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" # Don't share this! 😅
+api_key <- "XXXXXX" # Don't share this! 😅
 
 library(httr)
 library(stringr)
